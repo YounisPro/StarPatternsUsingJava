@@ -1,3 +1,3 @@
 # Star Patterns using Java
 
-## I had few examples of star patterns using recursion and loops
+## I had done few examples of star patterns using recursion and loops
